@@ -1,6 +1,6 @@
 Name:		texlive-atendofenv
 Version:	62164
-Release:	1
+Release:	2
 Summary:	Add a custom symbol at the end of an environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atendofenv
