@@ -3,7 +3,7 @@ Version:	62164
 Release:	2
 Summary:	Add a custom symbol at the end of an environment
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atendofenv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/atendofenv
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atendofenv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atendofenv.doc.r%{version}.tar.xz
